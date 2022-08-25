@@ -1,0 +1,37 @@
+.ab{
+	background-color: black;
+
+	height: 20px;
+	padding: 10px;
+}
+.ab a{
+	color: floralwhite;
+	width: 20px;
+	
+	padding: 5px;
+	margin-left: 20px;
+	text-decoration: none;
+}
+.bc{
+	margin-left: 500px;
+}
+.ab :hover{
+	background-color: blue;
+	padding: 10px;
+}
+.ab a.active{
+	background-color: maroon;
+	padding: 10px;
+}
+.a{
+	background-color: grey;
+}
+body{
+	background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg");
+}
+p{
+	color: white;
+}
+aside{
+	color: white;
+}
